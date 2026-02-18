@@ -12,7 +12,7 @@ public class Main {
         Member m = new Member(2 , "panahs" , "6906173399");
         lib.addMember(m);
         lib.addMember(m);
-        System.out.println(lib.findMember(2));
+        System.out.println(lib.findMember(2));;
 
     }
 }
